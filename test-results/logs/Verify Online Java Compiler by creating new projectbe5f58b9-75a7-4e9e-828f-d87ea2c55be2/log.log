@@ -1,0 +1,2 @@
+info: Dec-24-2023 07:37:44: 	Editor has sample code public class MyClass {    public static void main(String args[]) {      int x=10;      int y=25;      int z=x+y;      System.out.println("Sum of x+y = " + z);    }}
+info: Dec-24-2023 07:37:45: 	Editor is empty

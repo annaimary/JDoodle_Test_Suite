@@ -1,0 +1,6 @@
+info: Dec-24-2023 07:37:27: 	public class MyClass {
+    public static void main(String args[]) {
+      int x=40;
+      int y=25;
+      int z=x-y;
+      System.out.println("Difference of x-y = " + z);
